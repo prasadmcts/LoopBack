@@ -5,12 +5,17 @@ import {inject} from '@loopback/core';
 
 export class TodoRepository extends DefaultCrudRepository<
   Todo,
-  typeof Todo.prototype.id, 
+  typeof Todo.prototype.id,
   TodoRelations
 > {
   constructor(
     @inject('datasources.db') dataSource: DbDataSource,
   ) {
     super(Todo, dataSource);
+  }
+
+   // Add the following function
+   public findByTitle(title: string) {
+    return this.findOne({where: {title}});
   }
 }
