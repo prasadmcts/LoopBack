@@ -1,0 +1,14 @@
+{"message":"i - Browse your REST API at http://localhost:3000/explorer","level":"info","service":"user-service"}
+{"message":"d - Browse your REST API at http://localhost:3000/explorer","level":"debug","service":"user-service"}
+{"message":"i - Browse your REST API at http://localhost:3000/explorer","level":"info","service":"user-service"}
+{"message":"d - Browse your REST API at http://localhost:3000/explorer","level":"debug","service":"user-service"}
+{"message":"i -  EMPR - received message: final","level":"info","service":"user-service"}
+{"message":"d -  EMPR - received message: final","level":"debug","service":"user-service"}
+{"message":"i -  EMPR - received message: final","level":"info","service":"user-service"}
+{"message":"d -  EMPR - received message: final","level":"debug","service":"user-service"}
+{"message":"i - Browse your REST API at http://localhost:3000/explorer","level":"info","service":"user-service"}
+{"message":"d - Browse your REST API at http://localhost:3000/explorer","level":"debug","service":"user-service"}
+{"message":"i -  EMPR - received message: finaltest","level":"info","service":"user-service"}
+{"message":"d -  EMPR - received message: finaltest","level":"debug","service":"user-service"}
+{"message":"i -  EMPR - received message: finaltest","level":"info","service":"user-service"}
+{"message":"d -  EMPR - received message: finaltest","level":"debug","service":"user-service"}

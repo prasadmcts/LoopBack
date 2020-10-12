@@ -1,0 +1,24 @@
+{
+  "name": "Employee",
+  "base": "",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "Id": {
+      "type": "number",
+      "required": true
+    },
+    "Name": {
+      "type": "string"
+    },
+    "City": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
